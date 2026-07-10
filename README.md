@@ -90,26 +90,9 @@ A chi-square test found a statistically significant association between sampling
 
 Python · Pandas · NumPy · SciPy (hypothesis testing) · scikit-learn (Random Forest) · imbalanced-learn (SMOTE) · Matplotlib · Seaborn
 
-## Repository Structure
-Project-Haalu/
-├── data/
-│ └── milk_quality_dataset_karnataka.csv
-├── notebooks/
-│ └── project_haalu_end_to_end.py
-├── results/
-│ ├── correlation_significance.csv
-│ ├── anova_results.csv
-│ └── ttest_results.csv
-├── figures/
-│ ├── correlation_matrix.png
-│ ├── source_comparison.png
-│ ├── location_lowquality.png
-│ └── feature_importance.png
-├── report/
-│ └── Project_Haalu_Report.pdf
-└── README.md
 
-text
+
+
 
 ## Running the Pipeline
 
