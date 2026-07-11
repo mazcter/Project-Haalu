@@ -1,4 +1,4 @@
-# Project Haalu — A Study of Milk Types and Their Correlation with Quality Variables
+# Project Haalu- Statistical Analysis and Machine Learning for Milk Quality Assessment
 
 **Service Learning Report | Department of Mathematics, CHRIST (Deemed to be University), Bengaluru | March 2025**
 
